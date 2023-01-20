@@ -1,7 +1,7 @@
 ### Blick+: A Full Stack Art Supplies Shopping Web Application
 + Online demo: http://blickplus.atelierdu.com
 
-+ https://youtu.be/k7mixDfzbNQ
++ Demo on Youtube: https://youtu.be/k7mixDfzbNQ
 
 + Developed an user-friendly web page with React JS and Ant Design
 
