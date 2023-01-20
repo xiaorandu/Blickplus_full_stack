@@ -1,6 +1,8 @@
 ### Blick+: A Full Stack Art Supplies Shopping Web Application
 + Online demo: http://blickplus.atelierdu.com
 
++ https://youtu.be/k7mixDfzbNQ
+
 + Developed an user-friendly web page with React JS and Ant Design
 
 + Implemented RESTful APIs via Spring Framework including registration, login, logout, supplies searching, ordering and checkout
