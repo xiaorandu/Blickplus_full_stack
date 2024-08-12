@@ -8,3 +8,5 @@
 + Demo on Youtube: https://youtu.be/k7mixDfzbNQ
    [![Watch the video](blick_demo.png)](https://youtu.be/k7mixDfzbNQ)
 
++ MySQL schema
+  <img src="dataModel.png" alt="Alt text" width="90%"/>
